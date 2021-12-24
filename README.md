@@ -1,6 +1,5 @@
 # zapgix
-PostgreSQL Monitoring
-
+PostgreSQL Monitoring (yoyoyo)
 This script is part of a monitoring solution that allows to monitor several
 services and applications.
 
